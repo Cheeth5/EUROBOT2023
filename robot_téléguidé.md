@@ -4,4 +4,5 @@ we used a motor driver (bts7960) , an arduino mega  , 2 motors and a ps2 control
 
 for the cherry system we used a pipe and a servo motors at the end so with the controller we can open the servo motor so we put the 
 cherry on top of the cakes 
+
 ![d238abb7-9593-4807-8cf6-24049580eb0e](https://github.com/Cheeth5/EUROBOT2023/assets/117034442/4649d221-d493-44ee-8749-8546be8f1992)
