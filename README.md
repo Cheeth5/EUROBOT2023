@@ -1,3 +1,6 @@
+![39d8df8a-3c31-45de-9f64-f4d22647828c](https://github.com/Cheeth5/EUROBOT2023/assets/117034442/638eff41-a819-4e1e-811f-1a6538c5df81)
+
+
 # EUROBOT2023
 🤖 Eurobot 2023: The Cherry on the Cake 🍒
 Welcome to the official repository for Eurobot 2023, where innovation meets precision in teleguided robotics! This project
